@@ -1,7 +1,16 @@
-Sobre Mim
+👨‍💻 Sobre Mim
+Olá! Me chamo Thiago Villar Figueiredo e sou estudante de Ciências da Computação no Centro Universitário de Brasília (UniCEUB) 🎓.
 
-Olá! Meu nome é Thiago Villar Figueiredo e sou estudante de Ciências da Computação no Centro Universitário de Brasília (UniCEUB). Embora ainda esteja no início da minha jornada na área da tecnologia, tenho uma grande paixão por aprender e explorar tudo o que envolve o campo da computação.
+💡 Embora ainda esteja dando meus primeiros passos na área, sou movido por uma enorme vontade de aprender e por uma curiosidade constante sobre o mundo da tecnologia.
 
-Atualmente, me dedico ao desenvolvimento de software, ao estudo de algoritmos e à modelagem matemática, buscando sempre aprimorar minhas habilidades. Além disso, estou me aprofundando na programação em Python, uma linguagem que me fascina por sua simplicidade e versatilidade.
+Dentro da faculdade, já tive contato com diversas áreas importantes, como:
 
-Embora eu seja inexperiente, estou constantemente em busca de novos desafios e oportunidades para expandir meu conhecimento, seja por meio de projetos acadêmicos ou iniciativas pessoais. Acredito que, com dedicação e curiosidade, posso crescer muito nessa área e contribuir de forma significativa para a evolução da tecnologia.
+🛠️ Desenvolvimento de Software
+
+🧠 Algoritmos e Modelagem Matemática
+
+🐍 Programação em Python
+
+Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente. Acredito que a dedicação e a busca por conhecimento são os maiores aliados para quem quer evoluir na carreira e fazer a diferença no universo da computação. 🚀
+
+
