@@ -13,7 +13,6 @@ Dentro da faculdade, já tive contato com diversas áreas importantes, como:
 
 Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente. Acredito que a dedicação e a busca por conhecimento são os maiores aliados para quem quer evoluir na carreira e fazer a diferença no universo da computação. 🚀
 
-
 🎯 Propósito deste Repositório
 Seja bem-vindo! Este repositório foi criado para compartilhar minha trajetória e aprendizados ao longo do curso de Ciências da Computação e das experiências que estou adquirindo nesse caminho.
 
